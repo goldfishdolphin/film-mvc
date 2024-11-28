@@ -1,0 +1,31 @@
+body{
+	background-color: rgb(23, 24, 14);
+	padding: 20px;
+	text-align: center;
+	color: white;
+	font-family: "Poppins", sans-serif;
+}
+
+li{
+	list-style-type: none;
+}
+label{
+	color:rgb(16, 31, 111)
+}
+form{
+	padding: 50px;
+}
+
+.footer {
+      padding: 20px 0;
+      text-align: center;
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+    }
+    
+  
+	input {
+    line-height: 20px;
+}
