@@ -20,9 +20,9 @@ public enum FilmDAO {
 	Film foundFilm = null;
 	Connection connection = null;
 	Statement statement = null;
-	String user = "imrannau";
-	String password = "Clemberg2";
-	String url = "jdbc:mysql://mudfoot.doc.stu.mmu.ac.uk:6306/" + user;
+	String user = "null";
+	String password = "null";
+	String url = "jdbc:mysql://localhost:6306/" + user;
 
 	/**
 	 * Get Database Connection
